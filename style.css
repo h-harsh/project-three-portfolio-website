@@ -103,6 +103,25 @@ hr{
     font-weight: bold;
     font-size: large;
 }
-.far{
+
+/**icons**/
+.icons{
     margin-right: 1rem;
+}
+/** bolgs page**/
+.section-blogs{
+    padding: 2rem;
+}
+.button-blogs{
+    display: inline-block;
+}
+.image-blogs{
+    max-width: 350px;
+}
+.fonts-blog{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;   
+}
+.icons-footer{
+    margin-right: 0.5rem;
 }
